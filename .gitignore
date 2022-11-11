@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+Nov7WeeklyCodingChallenge.iml
+.git
+out/
+.idea
+target/
